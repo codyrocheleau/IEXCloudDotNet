@@ -12,8 +12,16 @@ IEXCloudDotNet is a .Net class library allowing easy access to the IEXCloud API
 - DelayedQuote
 - Dividend
 - Earnings
+- HistoricalPrice
 - KeyStats
 - Logo
+- MarketVolumeUS
+- News
+- OHLC (Open High Low Close)
+- PreviousDayPrice
 - PriceTarget
+- Quote
 - SectorPerformance
 - VenueVolumn
+
+All classes implemet INotifyPropertyChange and are set up to work with binding. 
