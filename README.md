@@ -1,9 +1,7 @@
 # IEXCloudDotNet
 IEXCloudDotNet is a .Net class library allowing easy access to the IEXCloud API
 
-# Target Release Date for Version 1.0
-- March 15th 2019
-# Version 1.0
+# Version 1.0.1
 
 ## Features 
 ##### Classes Implemented
@@ -12,6 +10,7 @@ IEXCloudDotNet is a .Net class library allowing easy access to the IEXCloud API
 - DelayedQuote
 - Dividend
 - Earnings
+- EffectiveSpread
 - HistoricalPrice
 - KeyStats
 - Logo
