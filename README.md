@@ -1,6 +1,8 @@
 # IEXCloudDotNet
 IEXCloudDotNet is a .Net class library allowing easy access to the IEXCloud API
 
+You can find it here https://www.nuget.org/packages/IEXCloudDotNet/
+
 # Version 1.0.1
 
 ## Features 
