@@ -23,4 +23,11 @@ IEXCloudDotNet is a .Net class library allowing easy access to the IEXCloud API
 - SectorPerformance
 - VenueVolumn
 
-All classes implemet INotifyPropertyChange and are set up to work with binding. 
+All classes implement INotifyPropertyChange and are set up to work with binding. 
+
+# Future Updates
+- Custom Exception handling
+- More class implementations
+- Fine tuning of server calls to make calls less expensive
+- Asynchronous calls
+- HttpClient impementation
